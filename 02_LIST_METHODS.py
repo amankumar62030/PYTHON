@@ -12,7 +12,7 @@ print(L1)
 L1.reverse()
 print(L1)
 
-L1.insert(3,134) #it will add 8 at 3 index
+L1.insert(3,134) #it will add 134 at 3 index
 print(L1)
 
 L1.pop(2) #delete elemnt at index 2

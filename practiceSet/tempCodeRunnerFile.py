@@ -1,4 +1,7 @@
-# WAP to format the following letter using escape sequence characters.
+i = 1
+# sum = 0
+# while(i <=n):
+#     sum += i
+#     i +=1
 
-letter="Dear Harry,\nthis python course is nice.\nThanks!"
-print(letter)
+# print(sum)
