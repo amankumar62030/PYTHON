@@ -1,5 +1,2 @@
-avg()
-# avg()
-# avg()
-# avg()
-# avg()
+o = Programmer()
+# print(o.a, o.b)
