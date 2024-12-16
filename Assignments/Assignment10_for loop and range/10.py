@@ -3,13 +3,13 @@
 # start = 15
 # end = 45
 
-start=15
-end=46
-for i in range(start,end+1):
-    is_prime = True
-    for j in range(2,i):
-        if i%j==0:
+for num in range(15,46):
+    is_prime =True
+    for i in range(2,num):
+        if num%i==0:
             is_prime=False
             break
-    if is_prime and i>1:
-        print(i)
+    if is_prime and num>1:
+        print(num)
+
+
