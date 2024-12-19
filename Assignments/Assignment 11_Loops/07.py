@@ -2,6 +2,7 @@
 
 n = int(input("Enter the number: "))
 count = 0
-for i in str(abs(n)):
+y = str(n)
+for i in y:
     count+=1
 print(count)
